@@ -1,0 +1,46 @@
+Possible Tasks for IPL Project:
+1. Total no. of wins by each Team.
+2. Top 20 Players with most MOM awards
+3. Which City has hosted most no. of matches?
+4. No. of matches hosted at each stadium
+5. MI vs CSK, Clash of Titans
+6. MI vs Pune Team
+7. Result probability after winning the Toss
+8. Season wise performance of each Team.
+9. Biggest win by runs each season.
+10. Payed vs Win by each Team participated in IPL
+11. Which Umpire has participated in max. number of matches.
+12. Average/Total runs per season
+13. Run distribution per over.
+14. Number of times, Target of 200 and plus by each team
+15. Target of 200+ and how many teams and number of times chased.
+16. average Runs scored per over by each team.
+17. Powerplay Analysis
+18. Highest Average/Strike rate for both Batsman and Bowler(atleast 30 matches played).
+19. Top 20 Batsman
+20. Top 20 Bowlers
+21. Orange and Purple Cap per season analysis
+22. Century, 50's and 30's run scored analysis per batsman.
+23. Strike rate of Bowler.
+24. Highest number of runs scored as percentage of Boundaries.
+25. Extra run given by each team analysis.
+26. Most catches by any Fielder
+27. comparison between any particular batsman (Sachin Tendulkar) vs bowler(Shane Warne)
+28. Fielder Analysis
+29. Filder wih max. points.
+30. Bowler analysis during Powerplay and Last 4 overs.
+31. Best Partnership - max. runs scored
+32. Fantasy League - Select Best playing 11
+Condition:
+Max. 3 players from a particular Team 
+Points criteria for Batsman:
+>30 -2 points
+>50 -4 points
+>100 -8 points
+Points criteris for Bowler:
+>1 - 2 points
+>3 - 4 points
+>5 - 8 points
+Points Criteria for Fielder:
+Caught 1 - 2 points
+so and so forth
